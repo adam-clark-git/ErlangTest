@@ -1,6 +1,6 @@
 # Project Title (Update)
 
-This was an attempt to make a sudoku solving programming using Erlang, a functional programming language.
+This was an attempt to make a sudoku solving program using Erlang, a functional programming language.
 
 
 ## Instructions for Build and Use
